@@ -1,5 +1,9 @@
 # SIGPwny
 
+<p align="center">
+    <img width="250" src="https://sigpwny.com/images/logo.png?raw=true"/>
+</p>
+
 ### Who Are We?
 
 We are the information security special interest group at the University of Illinois Urbana-Champaign. We run weekly meetings teaching people various topics from the ground up. Our club is made up of many people from a great variety of backgrounds and is multidisciplinary in nature. We strive to make all of our meetings fun and accessible to anyone interested in learning about computer security. We have a great [library of meeting slides](https://sigpwny.com/presentation/) and [recordings](https://www.youtube.com/channel/UC3fWGYI7-Kt3Gi0aOIZMicg) that you can check out. 
