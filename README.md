@@ -18,7 +18,7 @@ In addition to teaching, we run a couple CTFs every year. In the late summer we 
 
 We also run a CTF in the [fall](https://fallctf.sigpwny.com/) which is focused on giving students new to security a chance to play some more entry level challenges, connect with companies, and win prizes.
 
-If you work somewhere who may be interested in sponsoring either event, you can find our sponsorship sheets for [UIUCTF](ADD A LINK), [FallCTF](https://fallctf.sigpwny.com/sponsor-sheet-v2.pdf), and our contact information below.
+If you work somewhere who may be interested in sponsoring either event, you can find our sponsorship sheets for [UIUCTF](https://sigpwny.com/assets/Official_UIUCTF_2022_Sponsorship_Sheet.pdf), [FallCTF](https://fallctf.sigpwny.com/sponsor-sheet-v2.pdf), and our contact information below.
 
 ### Tools
 
@@ -35,3 +35,8 @@ Many members of our organization have created some amazing things that we have o
 - [sigpwny@gmail.com](mailto:sigpwny@gmail.com)
 - [sigpwny.com](https://sigpwny.com/) 
 - [@Sigpwny](https://twitter.com/SIGPwny) 
+
+
+<p align="center">
+    <img width="250" src="https://sigpwny.com/logo/pwny8.png?raw=true"/>
+</p>
