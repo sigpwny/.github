@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" src="./assets/sigpwny-banner.svg" alt="SIGPwny banner" />
+  <img width="600" src="https://raw.githubusercontent.com/sigpwny/.github/main/profile/assets/sigpwny-banner.svg" alt="SIGPwny banner" />
 </p>
 
 [SIGPwny](https://sigpwny.com/) is the special interest group for information security at the University of Illinois Urbana-Champaign. Our mission is to teach students cybersecurity through [weekly meetings](https://sigpwny.com/meetings/), [competitions](https://sigpwny.com/events/), and [research](https://sigpwny.com/publications/). Our club is incredibly diverse, with members from varying disciplines and backgrounds. We believe cybersecurity should be accessible to all, so our content teaches everything from the ground up.
